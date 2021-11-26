@@ -1,4 +1,4 @@
-[![j31d0 StackOverflow](https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/9164688)](https://stackoverflow.com/users/9164688/j31d0)
+[![j31d0 StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9164688)](https://stackoverflow.com/users/9164688/j31d0)
 
 [![CodeForces Profile](http://cf.leed.at?id=j31d0)](https://codeforces.com/profile/j31d0)
 
